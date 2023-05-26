@@ -1,5 +1,3 @@
-import "./style.css";
-
 document.querySelector("#app").innerHTML = `
   <div>
     <h1>My own js template</h1>
